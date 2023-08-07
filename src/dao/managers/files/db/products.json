@@ -1,0 +1,127 @@
+[
+    {
+        "title": "polenta",
+        "description": "Este es un producto prueba",
+        "price": 200,
+        "thumbnail": "Sin imagen",
+        "code": "abc123",
+        "stock": 25,
+        "id": 1
+    },
+    {
+        "title": "azucar",
+        "description": "azucar blanca",
+        "price": 800,
+        "thumbnail": "",
+        "code": "a1",
+        "stock": 50,
+        "id": 2
+    },
+    {
+        "title": "yerba",
+        "description": "yerba romance",
+        "price": 200,
+        "thumbnail": "s/i",
+        "code": "a2",
+        "stock": 100,
+        "id": 3
+    },
+    {
+        "title": "Nuevo algodon",
+        "description": "algodon estrella",
+        "price": 30,
+        "thumbnail": "s/i",
+        "code": "a4",
+        "stock": 400,
+        "id": 5
+    },
+    {
+        "title": "aceite",
+        "description": "girasol",
+        "price": 50,
+        "thumbnail": "s/i",
+        "code": "a5",
+        "stock": 40,
+        "id": 6
+    },
+    {
+        "title": "aceite",
+        "description": "girasol",
+        "price": 50,
+        "thumbnail": "s/i",
+        "code": "a5",
+        "stock": 40,
+        "id": 7
+    },
+    {
+        "title": "aceite",
+        "description": "girasol",
+        "price": 50,
+        "thumbnail": "s/i",
+        "code": "a5",
+        "stock": 40,
+        "id": 8
+    },
+    {
+        "title": "fideo",
+        "description": "Matarazzo",
+        "price": 100,
+        "thumbnail": "s/i",
+        "code": "a7",
+        "stock": 20,
+        "id": 9
+    },
+    {
+        "title": "Papas Fritas",
+        "description": "Lays",
+        "price": 200,
+        "thumbnail": "s/i",
+        "code": "a11",
+        "stock": 1580,
+        "id": 10
+    },
+    {
+        "title": "Papel Higienico",
+        "description": "elite",
+        "price": 800,
+        "thumbnail": "s/i",
+        "code": "a12",
+        "stock": 150,
+        "id": 11
+    },
+    {
+        "title": "Detergente",
+        "description": "magistral",
+        "price": 900,
+        "thumbnail": "s/i",
+        "code": "a13",
+        "stock": 234,
+        "id": 12
+    },
+    {
+        "title": "Samsung",
+        "description": "is officially announced on April 2021.",
+        "price": 780,
+        "status": true,
+        "stock": 30,
+        "category": "smartphones",
+        "thumbnails": [
+            "https://dummyjson.com/image/i/products/4/thumbnail.jpg"
+        ],
+        "id": "4g1475w77",
+        "code": "t9"
+    },
+    {
+        "id": "cjrxekmv7",
+        "title": "iPhone 7",
+        "description": "is officially announced on April 2021.",
+        "code": "t7",
+        "price": 680,
+        "status": true,
+        "stock": 40,
+        "category": "smartphones",
+        "thumbnails": [
+            "https://dummyjson.com/image/i/products/4/thumbnail.jpg"
+        ]
+    }
+]

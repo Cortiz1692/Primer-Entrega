@@ -1,0 +1,22 @@
+{
+  "name": "entrega-peactica-integradora",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.1",
+    "mongoose": "^7.4.2",
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.2",
+    "uuid": "^9.0.0"
+  }
+}
